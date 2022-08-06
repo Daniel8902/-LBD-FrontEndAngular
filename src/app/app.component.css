@@ -1,0 +1,31 @@
+
+body {
+    background-color: #a8b6f6;
+    height: 100%;
+  }
+  
+  .main {
+    padding-top: 10em;
+    margin: auto;
+    width: 70%;
+  }
+  
+  
+  
+  .main-task {
+    background-color: rgb(99, 123, 129);
+    box-shadow: 0px 0px 24px -22px black;
+    border-radius: 0.2em;
+    padding: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    
+  }
+  .notification-task {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+}
+  
+ 
+
